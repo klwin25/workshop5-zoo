@@ -1,0 +1,25 @@
+body {
+  background-color: cornsilk;
+}
+img {
+  width: 300px;
+}
+h2 {
+  color: darkblue;
+  font-style: italic;
+}
+
+/* adds a border for the page */
+.border {
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 1em;
+  padding: 15px;
+}
+
+/* adds a line wherever it's placed */
+.line {
+  border: none;
+  border-top: 1px solid #000;
+  margin: 20px 0;
+}
